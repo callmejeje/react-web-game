@@ -1,1 +1,1 @@
-구구단
+# 구구단 (Multiplication Table)
