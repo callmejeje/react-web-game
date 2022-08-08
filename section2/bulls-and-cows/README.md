@@ -1,4 +1,4 @@
-Bulls and Cows
+# 숫자 야구 (Bulls and Cows)
 
 정상적으로 입력했을 때 :
 
